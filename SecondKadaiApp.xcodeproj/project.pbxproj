@@ -13,6 +13,7 @@
 		6E7E8A5C280536740036C969 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E7E8A5A280536740036C969 /* Main.storyboard */; };
 		6E7E8A5E280536750036C969 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E7E8A5D280536750036C969 /* Assets.xcassets */; };
 		6E7E8A61280536750036C969 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6E7E8A5F280536750036C969 /* LaunchScreen.storyboard */; };
+		6E7E8A69280537800036C969 /* NameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7E8A68280537800036C969 /* NameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6E7E8A5D280536750036C969 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E7E8A60280536750036C969 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6E7E8A62280536750036C969 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E7E8A68280537800036C969 /* NameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				6E7E8A54280536740036C969 /* AppDelegate.swift */,
 				6E7E8A56280536740036C969 /* SceneDelegate.swift */,
 				6E7E8A58280536740036C969 /* ViewController.swift */,
+				6E7E8A68280537800036C969 /* NameViewController.swift */,
 				6E7E8A5A280536740036C969 /* Main.storyboard */,
 				6E7E8A5D280536750036C969 /* Assets.xcassets */,
 				6E7E8A5F280536750036C969 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				6E7E8A59280536740036C969 /* ViewController.swift in Sources */,
 				6E7E8A55280536740036C969 /* AppDelegate.swift in Sources */,
 				6E7E8A57280536740036C969 /* SceneDelegate.swift in Sources */,
+				6E7E8A69280537800036C969 /* NameViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
